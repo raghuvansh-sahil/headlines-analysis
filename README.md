@@ -17,7 +17,7 @@ It visualizes:
 ## 🚀 Steps to Run
 1. **Clone the repository**
    ```bash
-   git clone <url>
+   git clone https://github.com/raghuvansh-sahil/headlines-analysis
    cd headlines-analysis
    ```
 2. **Install dependencies**
