@@ -3,7 +3,7 @@
 The stock market is a dynamic space where **numbers meet narratives**.
 Financial news headlines often reflect investor sentiment, and sometimes, they even shape it. 
 
-This project to explores the intersection of **news sentiment** and **stock price** using **Nvidia**, one of the most influential tech companies, as a case study. 
+This project explores the intersection of **news sentiment** and **stock price** using **Nvidia**, one of the most influential tech companies, as a case study. 
 Can the emotional tone of daily news headlines influence Nvidia’s stock price? Let’s find out.
 
 ## 🧠 Project Overview
